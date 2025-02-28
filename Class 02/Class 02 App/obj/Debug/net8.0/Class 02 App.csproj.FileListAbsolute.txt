@@ -1,0 +1,14 @@
+C:\Users\code\source\repos\Class 02\Class 02 App\obj\Debug\net8.0\Class 02 App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\source\repos\Class 02\Class 02 App\obj\Debug\net8.0\Class 02 App.AssemblyInfoInputs.cache
+C:\Users\code\source\repos\Class 02\Class 02 App\obj\Debug\net8.0\Class 02 App.AssemblyInfo.cs
+C:\Users\code\source\repos\Class 02\Class 02 App\obj\Debug\net8.0\Class 02 App.csproj.CoreCompileInputs.cache
+C:\Users\code\source\repos\Class 02\Class 02 App\bin\Debug\net8.0\Class 02 App.exe
+C:\Users\code\source\repos\Class 02\Class 02 App\bin\Debug\net8.0\Class 02 App.deps.json
+C:\Users\code\source\repos\Class 02\Class 02 App\bin\Debug\net8.0\Class 02 App.runtimeconfig.json
+C:\Users\code\source\repos\Class 02\Class 02 App\bin\Debug\net8.0\Class 02 App.dll
+C:\Users\code\source\repos\Class 02\Class 02 App\bin\Debug\net8.0\Class 02 App.pdb
+C:\Users\code\source\repos\Class 02\Class 02 App\obj\Debug\net8.0\Class 02 App.dll
+C:\Users\code\source\repos\Class 02\Class 02 App\obj\Debug\net8.0\refint\Class 02 App.dll
+C:\Users\code\source\repos\Class 02\Class 02 App\obj\Debug\net8.0\Class 02 App.pdb
+C:\Users\code\source\repos\Class 02\Class 02 App\obj\Debug\net8.0\Class 02 App.genruntimeconfig.cache
+C:\Users\code\source\repos\Class 02\Class 02 App\obj\Debug\net8.0\ref\Class 02 App.dll

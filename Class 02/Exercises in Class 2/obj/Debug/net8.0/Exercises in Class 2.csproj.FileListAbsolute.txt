@@ -1,0 +1,14 @@
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\bin\Debug\net8.0\Exercises in Class 2.exe
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\bin\Debug\net8.0\Exercises in Class 2.deps.json
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\bin\Debug\net8.0\Exercises in Class 2.runtimeconfig.json
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\bin\Debug\net8.0\Exercises in Class 2.dll
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\bin\Debug\net8.0\Exercises in Class 2.pdb
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\obj\Debug\net8.0\Exercises in Class 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\obj\Debug\net8.0\Exercises in Class 2.AssemblyInfoInputs.cache
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\obj\Debug\net8.0\Exercises in Class 2.AssemblyInfo.cs
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\obj\Debug\net8.0\Exercises in Class 2.csproj.CoreCompileInputs.cache
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\obj\Debug\net8.0\Exercises in Class 2.dll
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\obj\Debug\net8.0\refint\Exercises in Class 2.dll
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\obj\Debug\net8.0\Exercises in Class 2.pdb
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\obj\Debug\net8.0\Exercises in Class 2.genruntimeconfig.cache
+C:\Users\code\source\repos\Class 02\Exercises in Class 2\obj\Debug\net8.0\ref\Exercises in Class 2.dll

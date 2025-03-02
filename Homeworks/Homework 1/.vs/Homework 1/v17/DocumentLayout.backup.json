@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bube_\\OneDrive\\Documents\\GitHub\\csharpbasic_homeworks\\Homeworks\\Homework 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBABC28-C8D1-462B-9C9F-E4761D4A2D4F}|Homework 1\\Homework 1.csproj|c:\\users\\bube_\\onedrive\\documents\\github\\csharpbasic_homeworks\\homeworks\\homework 1\\homework 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBABC28-C8D1-462B-9C9F-E4761D4A2D4F}|Homework 1\\Homework 1.csproj|solutionrelative:homework 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C21390-89C1-41BB-BB93-03A2F1547CD4}|Average Number\\Average Number.csproj|c:\\users\\bube_\\onedrive\\documents\\github\\csharpbasic_homeworks\\homeworks\\homework 1\\average number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C21390-89C1-41BB-BB93-03A2F1547CD4}|Average Number\\Average Number.csproj|solutionrelative:average number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF57990-2BCD-4672-A994-685CAFB851E3}|SwapNumbers\\SwapNumbers.csproj|c:\\users\\bube_\\onedrive\\documents\\github\\csharpbasic_homeworks\\homeworks\\homework 1\\swapnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF57990-2BCD-4672-A994-685CAFB851E3}|SwapNumbers\\SwapNumbers.csproj|solutionrelative:swapnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bube_\\OneDrive\\Documents\\GitHub\\csharpbasic_homeworks\\Homeworks\\Homework 1\\SwapNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SwapNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\bube_\\OneDrive\\Documents\\GitHub\\csharpbasic_homeworks\\Homeworks\\Homework 1\\SwapNumbers\\Program.cs",
+              "RelativeToolTip": "SwapNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:38:49.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bube_\\OneDrive\\Documents\\GitHub\\csharpbasic_homeworks\\Homeworks\\Homework 1\\Average Number\\Program.cs",
+              "RelativeDocumentMoniker": "Average Number\\Program.cs",
+              "ToolTip": "C:\\Users\\bube_\\OneDrive\\Documents\\GitHub\\csharpbasic_homeworks\\Homeworks\\Homework 1\\Average Number\\Program.cs",
+              "RelativeToolTip": "Average Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:15:16.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bube_\\OneDrive\\Documents\\GitHub\\csharpbasic_homeworks\\Homeworks\\Homework 1\\Homework 1\\Program.cs",
+              "RelativeDocumentMoniker": "Homework 1\\Program.cs",
+              "ToolTip": "C:\\Users\\bube_\\OneDrive\\Documents\\GitHub\\csharpbasic_homeworks\\Homeworks\\Homework 1\\Homework 1\\Program.cs*",
+              "RelativeToolTip": "Homework 1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:06:54.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

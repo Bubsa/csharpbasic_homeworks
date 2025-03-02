@@ -8,9 +8,9 @@
 
             string name = "Bube";
 
-            char character = "A" // tuka poso ima samo eden karakter vo dvojni navodnici ke ti frli greshka
+           // char character = "A" // tuka poso ima samo eden karakter vo dvojni navodnici ke ti frli greshka
 
-            string blabla = 'String' // tuka e istiot problem, stavash poise karakteri vo edinechni navodnici pak ti vadi greshka
+           // string blabla = 'String' // tuka e istiot problem, stavash poise karakteri vo edinechni navodnici pak ti vadi greshka
             
             bool isValid = false;
 

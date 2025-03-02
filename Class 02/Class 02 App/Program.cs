@@ -17,7 +17,7 @@
 
             //float floatNumber = 10.10f;
             //double doubleNumber = 10.00d;
-            //decimal decimalNumber = 10.12m;
+            decimal decimalNumber = 10.12m;
 
             //char character = 'A';
             //string str = "Bube";
@@ -142,21 +142,33 @@
 
             ////short parsed = Convert.ToInt16();
 
-            string input30 = Console.ReadLine();
+            //string input30 = Console.ReadLine();
 
-            int tryParseInteger = default;
+            //int tryParseInteger = default;
 
-            bool isValidParsing = int.TryParse(input30,out tryParseInteger); // ova so out e nesho so ne go znaeme do sega i mora vaka da go pishuvame
-            Console.WriteLine($"this is bool:{isValidParsing} ");
-            Console.WriteLine(tryParseInteger);
+            //bool isValidParsing = int.TryParse(input30,out tryParseInteger); // ova so out e nesho so ne go znaeme do sega i mora vaka da go pishuvame
+            //Console.WriteLine($"this is bool:{isValidParsing} ");
+            //Console.WriteLine(tryParseInteger);
 
-            string input31 = Console.ReadLine();
-            bool isValidParsingOfBoolean = bool.TryParse(input31, out bool value); // ova e shorthand na ova tryParseInteger pogore
-            Console.WriteLine($"this is validParsingofBool: {isValidParsingOfBoolean}");
-            Console.WriteLine(value);
+            //string input31 = Console.ReadLine();
+            //bool isValidParsingOfBoolean = bool.TryParse(input31, out bool value); // ova e shorthand na ova tryParseInteger pogore
+            //Console.WriteLine($"this is validParsingofBool: {isValidParsingOfBoolean}");
+            //Console.WriteLine(value);
 
-            Console.ReadLine();
-            Console.WriteLine("Hello, World!");
+            //Console.ReadLine();
+            //Console.WriteLine("Hello, World!");
+            //Console.WriteLine("Write your name");
+            //string name = Console.ReadLine();
+            //Console.WriteLine("Hello there " + name + "!");
+
+            //string name = "123";
+
+            //bool isValidParse = int.TryParse(name, out int teger);
+            //Console.WriteLine("This is " + isValidParse + " " + teger + " is now a number");
+
+            float myFloat = 13.12f;
+            string parsedFloat = myFloat.ToString();
+            Console.WriteLine(parsedFloat);
         }
     }
 }

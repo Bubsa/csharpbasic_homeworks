@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 05 and strings and shit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED536D59-5CBA-499C-996E-804B49727AB0}|Class 05 and strings and shit\\Class 05 and strings and shit.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 05 and strings and shit\\class 05 and strings and shit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED536D59-5CBA-499C-996E-804B49727AB0}|Class 05 and strings and shit\\Class 05 and strings and shit.csproj|solutionrelative:class 05 and strings and shit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3481E89-036B-4232-8677-DD2D1EED4131}|String Exercise\\String Exercise.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 05 and strings and shit\\string exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3481E89-036B-4232-8677-DD2D1EED4131}|String Exercise\\String Exercise.csproj|solutionrelative:string exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 05 and strings and shit\\String Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "String Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 05 and strings and shit\\String Exercise\\Program.cs",
+              "RelativeToolTip": "String Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:31:20.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 05 and strings and shit\\Class 05 and strings and shit\\Program.cs",
+              "RelativeDocumentMoniker": "Class 05 and strings and shit\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 05 and strings and shit\\Class 05 and strings and shit\\Program.cs",
+              "RelativeToolTip": "Class 05 and strings and shit\\Program.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAADwv7wAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:39:12.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

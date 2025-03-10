@@ -1,0 +1,15 @@
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\bin\Debug\net8.0\String Exercise.exe
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\bin\Debug\net8.0\String Exercise.deps.json
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\bin\Debug\net8.0\String Exercise.runtimeconfig.json
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\bin\Debug\net8.0\String Exercise.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\bin\Debug\net8.0\String Exercise.pdb
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\String Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\String Exercise.AssemblyInfoInputs.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\String Exercise.AssemblyInfo.cs
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\String Exercise.csproj.CoreCompileInputs.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\String Exercise.sourcelink.json
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\String Exercise.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\refint\String Exercise.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\String Exercise.pdb
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\String Exercise.genruntimeconfig.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\String Exercise\obj\Debug\net8.0\ref\String Exercise.dll

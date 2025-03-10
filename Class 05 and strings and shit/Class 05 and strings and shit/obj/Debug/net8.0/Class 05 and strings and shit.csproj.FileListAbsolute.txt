@@ -1,0 +1,15 @@
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\bin\Debug\net8.0\Class 05 and strings and shit.exe
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\bin\Debug\net8.0\Class 05 and strings and shit.deps.json
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\bin\Debug\net8.0\Class 05 and strings and shit.runtimeconfig.json
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\bin\Debug\net8.0\Class 05 and strings and shit.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\bin\Debug\net8.0\Class 05 and strings and shit.pdb
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\Class 05 and strings and shit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\Class 05 and strings and shit.AssemblyInfoInputs.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\Class 05 and strings and shit.AssemblyInfo.cs
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\Class 05 and strings and shit.csproj.CoreCompileInputs.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\Class 05 and strings and shit.sourcelink.json
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\Class 05 and strings and shit.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\refint\Class 05 and strings and shit.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\Class 05 and strings and shit.pdb
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\Class 05 and strings and shit.genruntimeconfig.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 05 and strings and shit\Class 05 and strings and shit\obj\Debug\net8.0\ref\Class 05 and strings and shit.dll

@@ -1,0 +1,15 @@
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.exe
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.deps.json
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.runtimeconfig.json
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.dll
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.pdb
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfo.cs
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.sourcelink.json
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.dll
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\refint\SumOfEven.dll
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.pdb
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.genruntimeconfig.cache
+C:\Users\bube_\OneDrive\Documents\GitHub\csharpbasic_homeworks\Homeworks\SumOfEven\SumOfEven\obj\Debug\net8.0\ref\SumOfEven.dll

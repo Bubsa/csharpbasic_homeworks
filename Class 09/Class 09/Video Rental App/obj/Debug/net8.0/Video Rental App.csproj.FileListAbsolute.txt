@@ -1,0 +1,21 @@
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\bin\Debug\net8.0\Video Rental App.exe
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\bin\Debug\net8.0\Video Rental App.deps.json
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\bin\Debug\net8.0\Video Rental App.runtimeconfig.json
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\bin\Debug\net8.0\Video Rental App.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\bin\Debug\net8.0\Video Rental App.pdb
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Rental App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Rental App.AssemblyInfoInputs.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Rental App.AssemblyInfo.cs
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Rental App.csproj.CoreCompileInputs.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Rental App.sourcelink.json
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Rental App.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\refint\Video Rental App.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Rental App.pdb
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Rental App.genruntimeconfig.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\ref\Video Rental App.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Rental App.csproj.AssemblyReference.cache
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\bin\Debug\net8.0\Business.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\bin\Debug\net8.0\Data.dll
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\bin\Debug\net8.0\Business.pdb
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\bin\Debug\net8.0\Data.pdb
+C:\Users\code\Documents\GitHub\csharpbasic_homeworks\Class 09\Class 09\Video Rental App\obj\Debug\net8.0\Video Re.F9BCAB57.Up2Date

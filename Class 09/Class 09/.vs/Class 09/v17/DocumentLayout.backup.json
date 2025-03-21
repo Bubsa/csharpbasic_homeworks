@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E8ED54-77B5-47D0-92A4-35E4BEBD1FC0}|Business\\Business.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 09\\class 09\\business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E8ED54-77B5-47D0-92A4-35E4BEBD1FC0}|Business\\Business.csproj|solutionrelative:business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A67D3-A740-4D2E-B65B-0368E4B6C0C2}|Video Rental App\\Video Rental App.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 09\\class 09\\video rental app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A67D3-A740-4D2E-B65B-0368E4B6C0C2}|Video Rental App\\Video Rental App.csproj|solutionrelative:video rental app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 09\\class 09\\data\\database\\userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|solutionrelative:data\\database\\userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A67D3-A740-4D2E-B65B-0368E4B6C0C2}|Video Rental App\\Video Rental App.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 09\\class 09\\video rental app\\video rental app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A03A67D3-A740-4D2E-B65B-0368E4B6C0C2}|Video Rental App\\Video Rental App.csproj|solutionrelative:video rental app\\video rental app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 09\\class 09\\data\\models\\base entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|solutionrelative:data\\models\\base entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 09\\class 09\\data\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|solutionrelative:data\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 09\\class 09\\data\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|solutionrelative:data\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 09\\class 09\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|solutionrelative:data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 09\\class 09\\data\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A50230D-8E4F-493B-B848-518B2C9E5D9F}|Data\\Data.csproj|solutionrelative:data\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Video Rental App",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Video Rental App\\Video Rental App.csproj",
+              "RelativeDocumentMoniker": "Video Rental App\\Video Rental App.csproj",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Video Rental App\\Video Rental App.csproj",
+              "RelativeToolTip": "Video Rental App\\Video Rental App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T17:00:27.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDataService.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Database\\UserDataService.cs",
+              "RelativeDocumentMoniker": "Data\\Database\\UserDataService.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Database\\UserDataService.cs",
+              "RelativeToolTip": "Data\\Database\\UserDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:09:59.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Business\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Business\\Services\\UserService.cs*",
+              "RelativeToolTip": "Business\\Services\\UserService.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwv1AAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:03:30.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Database\\InMemoryDatabase.cs",
+              "RelativeDocumentMoniker": "Data\\Database\\InMemoryDatabase.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Database\\InMemoryDatabase.cs",
+              "RelativeToolTip": "Data\\Database\\InMemoryDatabase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:18:24.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "Data\\Enums\\Genre.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Enums\\Genre.cs",
+              "RelativeToolTip": "Data\\Enums\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:11:21.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Base entity.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Models\\Base entity.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Base entity.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Models\\Base entity.cs",
+              "RelativeToolTip": "Data\\Models\\Base entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:02:26.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Models\\Movie.cs",
+              "RelativeToolTip": "Data\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:01:08.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Data\\Models\\User.cs",
+              "RelativeToolTip": "Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:01:02.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Video Rental App\\Program.cs",
+              "RelativeDocumentMoniker": "Video Rental App\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 09\\Class 09\\Video Rental App\\Program.cs",
+              "RelativeToolTip": "Video Rental App\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:35:31.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

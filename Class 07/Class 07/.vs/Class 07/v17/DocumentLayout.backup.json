@@ -7,20 +7,28 @@
       "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 07\\class 07\\inheritance\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 07\\class 07\\inheritance\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 07\\class 07\\inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 07\\class 07\\inheritance\\petroltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\petroltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 07\\class 07\\inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 07\\class 07\\inheritance\\wheeledvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\wheeledvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 07\\class 07\\inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 07\\class 07\\inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|c:\\users\\code\\documents\\github\\csharpbasic_homeworks\\class 07\\class 07\\inheritance\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914FAC9C-14FD-49FD-A636-270545A57C12}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetrolType.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\PetrolType.cs",
+              "RelativeDocumentMoniker": "Inheritance\\PetrolType.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\PetrolType.cs",
+              "RelativeToolTip": "Inheritance\\PetrolType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:37:17.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Days.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\Days.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Days.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\Days.cs",
+              "RelativeToolTip": "Inheritance\\Days.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:34:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Motorcycle.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\Motorcycle.cs",
               "RelativeDocumentMoniker": "Inheritance\\Motorcycle.cs",
@@ -47,20 +81,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\Car.cs",
               "RelativeDocumentMoniker": "Inheritance\\Car.cs",
               "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\Car.cs",
               "RelativeToolTip": "Inheritance\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T17:52:46.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WheeledVehicle.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\WheeledVehicle.cs",
               "RelativeDocumentMoniker": "Inheritance\\WheeledVehicle.cs",
@@ -73,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\Vehicle.cs",
               "RelativeDocumentMoniker": "Inheritance\\Vehicle.cs",
@@ -92,7 +126,7 @@
               "RelativeDocumentMoniker": "Inheritance\\Program.cs",
               "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\csharpbasic_homeworks\\Class 07\\Class 07\\Inheritance\\Program.cs",
               "RelativeToolTip": "Inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T17:46:36.153Z",
               "EditorCaption": ""
